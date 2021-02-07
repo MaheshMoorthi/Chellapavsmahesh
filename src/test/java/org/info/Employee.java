@@ -25,8 +25,12 @@ public class Employee {
 	System.out.println("chellapa edited");
 
 	}
+
 	private void chellapa() {
 		System.out.println("create conflict");
+	}
+	private void myid() {
+		System.out.println("mahesh updated");
 
 	}
 	
