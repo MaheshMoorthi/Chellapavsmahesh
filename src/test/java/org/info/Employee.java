@@ -21,4 +21,9 @@ public class Employee {
 		System.out.println("test3");
 	}
 
+	private void mai() {
+	System.out.println("chellapa edited");
+
+	}
+	
 }
